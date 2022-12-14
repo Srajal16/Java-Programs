@@ -1,4 +1,4 @@
-# Basic-Java-Programs
+# Java-Programs
 
 #Topics Covered: 
 
